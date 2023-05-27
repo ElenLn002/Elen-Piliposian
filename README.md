@@ -1,2 +1,2 @@
 # Elen-Piliposian
-Here I will share codes written by me
+Here I share my course work by discrete mathematics.
