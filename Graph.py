@@ -95,7 +95,7 @@ def write_result_to_file(vertex_connectivity, filename):
         file.write(f"\nVertex connectivity is {vertex_connectivity}\n")
 
 def main():
-    filename = "G.txt"
+    filename = "Graph.txt"
 
     # Read graph from file
     g = read_graph_from_file(filename)
