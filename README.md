@@ -1,2 +1,2 @@
 # Elen-Piliposian
-Here I share my course work by discrete mathematics.
+Here I share my course work of discrete mathematics.
